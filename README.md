@@ -3,7 +3,7 @@
 A convolutional neural networks and OpenCV based project which detects facemask and regulates the crowd according to it.
 
 Project video link:
-https://www.youtube.com/watch?v=oXlwWbU8l2o  
+https://www.youtube.com/watch?v=Px9nk1RtZYI  
 
 1. data preparation for mask detection: mask_data_gray.ipynb
 2. CNN for mask detection: model_fm_gray(final).ipynb
